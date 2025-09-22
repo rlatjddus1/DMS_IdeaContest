@@ -24,9 +24,13 @@
 - 분석 결과 기반 **새로운 관광 벨트 제안**  
 
 ## 성과 / 배운 점  
-- 데이터 기반의 **계절 맞춤형 관광 전략** 제시  
-- 특정 관광지의 **비수기 보완 효과** 시뮬레이션  
-- 데이터 분석을 통한 **정책 제안 프로세스 경험**  
-- 지역 특성과 계절성을 고려한 **관광 수요 예측의 중요성 학습**  
+- 데이터 기반의 계절 맞춤형 관광 전략 제시  
+- 특정 관광지의 비수기 보완 효과 시뮬레이션  
+- 데이터 분석을 통한 정책 제안 프로세스 경험 
+- 지역 특성과 계절성을 고려한 관광 수요 예측의 중요성 학습  
 
 ---
+## 클러스터링 예시
+- <img width="1528" height="754" alt="image" src="https://github.com/user-attachments/assets/2ff26ed2-85ec-4d01-be1e-be0cb9024135" />
+- <img width="1414" height="739" alt="image" src="https://github.com/user-attachments/assets/bec612c5-7fc2-442c-8137-37b8481e7237" />
+- <img width="1390" height="749" alt="image" src="https://github.com/user-attachments/assets/3cc126b0-b3a1-4b40-8311-a5885e89084f" />
